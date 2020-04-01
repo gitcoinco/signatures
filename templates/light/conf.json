@@ -1,0 +1,28 @@
+[
+  {
+    "id": "eric-light",
+    "signature": "Yours truly,",
+    "name": "Eric Berry",
+    "welcome": "Hi there,",
+    "introParagraph": "Thanks for writing up this email.<br/> We are delighted to reply with a responsive template.",
+    "contactMain": "Call <a href='tel:80100100'><span>80100100</span></a> or email us at",
+    "contactMail": "eric@codefund.io",
+    "contactSecondary": "<a href='https://mapurl.com'><span>Happy Steet 31, DK-8000 Aarhus C, Denmark</span></a>",
+    "logoUrl": "/assets/codefund.png",
+    "logoAlt": "CodeFund",
+    "website": "https://codefund.io"
+  },
+  {
+    "id": "nate-light",
+    "signature": "Yours truly,",
+    "name": "Nathan Hopkins",
+    "welcome": "Hi there,",
+    "introParagraph": "Thanks for writing up this email.<br/> We are delighted to reply with a responsive template.",
+    "contactMain": "Call <a href='tel:80100100'><span>80100100</span></a> or email us at",
+    "contactMail": "nate@codefund.io",
+    "contactSecondary": "<a href='https://mapurl.com'><span>Happy Steet 31, DK-8000 Aarhus C, Denmark</span></a>",
+    "logoUrl": "/assets/codefund.png",
+    "logoAlt": "CodeFund",
+    "website": "https://codefund.io"
+  }
+]
