@@ -51,7 +51,7 @@
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.0.2",
     "klaw": "^3.0.0",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   },
   "resolutions": {
     "graceful-fs": "^4.1.15"
